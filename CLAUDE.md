@@ -93,7 +93,8 @@ Phase 0 is in progress.
 - [x] This file and `.claude/settings.json` (git deny rules, Manual mode by default)
 - [x] `.gitattributes` (line endings) and `.editorconfig`
 - [x] Extend `.gitignore` for Node/Vite
-- [ ] Honest work-in-progress README skeleton, plus repo description and topics
+- [x] Honest work-in-progress README skeleton
+- [ ] GitHub repo description and topics
 - [ ] `docs/adr/` with an ADR template
 - [ ] Basic issue/PR templates, labels and a GitHub milestone for Phase 1
 
