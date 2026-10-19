@@ -96,6 +96,7 @@ Phase 0 is in progress.
 - [x] Honest work-in-progress README skeleton
 - [ ] GitHub repo description and topics
 - [x] `docs/adr/` with an ADR template
-- [ ] Basic issue/PR templates, labels and a GitHub milestone for Phase 1
+- [x] Basic issue/PR templates
+- [ ] GitHub labels and a milestone for Phase 1
 
 Update this section at the end of every task.
