@@ -95,7 +95,7 @@ Phase 0 is in progress.
 - [x] Extend `.gitignore` for Node/Vite
 - [x] Honest work-in-progress README skeleton
 - [ ] GitHub repo description and topics
-- [ ] `docs/adr/` with an ADR template
+- [x] `docs/adr/` with an ADR template
 - [ ] Basic issue/PR templates, labels and a GitHub milestone for Phase 1
 
 Update this section at the end of every task.
