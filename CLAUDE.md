@@ -92,7 +92,7 @@ Phase 0 is in progress.
 - [x] Repo created with README, VisualStudio .gitignore and MIT licence
 - [x] This file and `.claude/settings.json` (git deny rules, Manual mode by default)
 - [x] `.gitattributes` (line endings) and `.editorconfig`
-- [ ] Extend `.gitignore` for Node/Vite
+- [x] Extend `.gitignore` for Node/Vite
 - [ ] Honest work-in-progress README skeleton, plus repo description and topics
 - [ ] `docs/adr/` with an ADR template
 - [ ] Basic issue/PR templates, labels and a GitHub milestone for Phase 1
